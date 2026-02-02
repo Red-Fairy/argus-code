@@ -60,6 +60,6 @@ tyro
 # cd asmk/cython/
 # cythonize *.pyx
 # cd ..
-# pip install . 
+# pip install . --no-build-isolation
 # cd ..
 

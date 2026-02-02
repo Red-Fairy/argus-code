@@ -216,3 +216,7 @@ If you find our work useful for your research or projects, please cite our paper
   year      = {2025},
   url       = {https://arxiv.org/abs/2504.07940}
 }
+```
+
+## License
+This project is released under the MIT License.
